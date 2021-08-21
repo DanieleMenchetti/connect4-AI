@@ -1,4 +1,4 @@
-# connect4-AI
+# Connect4 AI
 AI BOT for Connect 4 game with Mini-Max algorithm and alpha-beta pruning.
 
 ## Info
